@@ -4,7 +4,7 @@ import time
 
 headers = {
 
-    'X-CMC_PRO_API_KEY': "e64c7798-d127-495c-934d-cf7a7bd01e9e",
+    'X-CMC_PRO_API_KEY': "",
     'Accepts': 'application/json'
 
 }
